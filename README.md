@@ -10,3 +10,6 @@
  Step 5: flask run
 
 - To test the http in insomnia copy and paste 
+- Using Insomnia doing a request in order Get, Post, Delete. 
+- If it is not working do the ``` flask run --debug ``` command 
+- 
